@@ -1,0 +1,40 @@
+# python version 3.12
+
+unsloth 
+transformers==4.56.2
+trl==0.22.2
+
+firebase-admin 
+soundfile
+
+python-socketio[asyncio]
+silero-vad
+
+# langchain-google-genai
+langchain
+langchain-community 
+langchain_chroma
+fireworks-ai 
+langchain-fireworks 
+FlagEmbedding
+# transformers==4.51.3
+# sentence-transformers==3.4.1 
+langchain_huggingface 
+
+# deps for bangla
+bangla
+bnnumerizer
+bnunicodenormalizer
+
+num2words
+pybangla
+num2words
+chromadb 
+speechbrain 
+fastapi 
+nest-asyncio
+pyngrok 
+uvicorn 
+google-cloud-firestore
+deepfilternet
+faiss-cpu
